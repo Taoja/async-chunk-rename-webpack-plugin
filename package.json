@@ -1,0 +1,11 @@
+{
+  "name": "async-chunk-rename-webpack-plugin",
+  "version": "1.0.0",
+  "description": "rename async chunks by module info after succedModule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huangwutao",
+  "license": "ISC"
+}
